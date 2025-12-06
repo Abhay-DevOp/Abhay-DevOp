@@ -1,54 +1,16 @@
-<html lang="en">
+## Hi there 👋
 
+<!--
+**Abhay-DevOp/Abhay-DevOp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<section class="section">
-<h2>Contributions (mock)</h2>
-<div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap">
-<div style="font-size:12px;color:var(--muted)">Less</div>
-<div class="heat">
-<div class="col">
-<div class="dot lvl1" title="0"></div>
-<div class="dot lvl2" title="2"></div>
-<div class="dot lvl3" title="5"></div>
-<div class="dot lvl4" title="9"></div>
-<div class="dot lvl2" title="2"></div>
-<div class="dot lvl1" title="0"></div>
-</div>
-<div class="col">
-<div class="dot lvl1"></div>
-<div class="dot lvl1"></div>
-<div class="dot lvl2"></div>
-<div class="dot lvl3"></div>
-<div class="dot lvl4"></div>
-<div class="dot lvl3"></div>
-</div>
-<div class="col">
-<div class="dot lvl1"></div>
-<div class="dot lvl2"></div>
-<div class="dot lvl2"></div>
-<div class="dot lvl3"></div>
-<div class="dot lvl3"></div>
-<div class="dot lvl2"></div>
-</div>
-<div class="col">
-<div class="dot lvl1"></div>
-<div class="dot lvl1"></div>
-<div class="dot lvl2"></div>
-<div class="dot lvl4"></div>
-<div class="dot lvl3"></div>
-<div class="dot lvl2"></div>
-</div>
-</div>
-<div style="font-size:12px;color:var(--muted)">More</div>
-</div>
-</section>
-</main>
-</div>
+Here are some ideas to get you started:
 
-
-<footer>
-Made with ♥ — Single-file dashboard for DevOps engineers. Replace text and images as needed.
-</footer>
-</div>
-</body>
-</html>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
